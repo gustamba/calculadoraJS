@@ -8,11 +8,11 @@ Este projeto é uma calculadora simples desenvolvida com o objetivo de praticar 
 - **HTML**: Estrutura da interface.
 - **CSS**: Estilização da interface.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 A calculadora suporta operações básicas e possui uma interface amigável para facilitar o uso.
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi criado com o propósito de:
 
@@ -34,7 +34,7 @@ cd calculadoraJS
 
 Basta abrir o arquivo index.html no seu navegador favorito.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ```Code
 
 calculadoraJS/
