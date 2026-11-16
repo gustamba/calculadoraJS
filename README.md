@@ -2,18 +2,13 @@
 
 Este projeto é uma calculadora simples desenvolvida com o objetivo de praticar lógica de programação utilizando **JavaScript**. Além disso, o projeto também utiliza **HTML** e **CSS** para a interface do usuário, deixando a aplicação funcional e visualmente amigável.
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **JavaScript**: Lógica e funcionalidades da calculadora.
 - **HTML**: Estrutura da interface.
 - **CSS**: Estilização da interface.
 
 ## ✨ Funcionalidades
-
-- Adição (`+`)
-- Subtração (`-`)
-- Multiplicação (`*`)
-- Divisão (`/`)
 
 A calculadora suporta operações básicas e possui uma interface amigável para facilitar o uso.
 
@@ -26,9 +21,7 @@ Este projeto foi criado com o propósito de:
 - Aprender a estilizar elementos HTML utilizando CSS.
 - Construir uma aplicação funcional e interativa.
 
-## 🚀 Como Executar o Projeto
-
-Siga os passos abaixo para rodar o projeto localmente:
+## Como Executar o Projeto
 
 ### 1. Clone o Repositório
 
