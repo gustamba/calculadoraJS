@@ -50,20 +50,3 @@ calculadoraJS/
 ├── script.js        # Lógica da calculadora
 └── README.md        # Arquivo de descrição do projeto
 ```
-
-## 📝 Como Contribuir
-
-Se você quiser contribuir com este projeto:
-
-    Faça um fork do repositório.
-    Crie uma branch com a sua feature: git checkout -b minha-feature.
-    Faça commit das suas alterações: git commit -m 'Adicionei uma nova feature'.
-    Envie a sua branch: git push origin minha-feature.
-
-Depois que o seu pull request for aprovado, ele será integrado ao projeto. 😄
-
-## 🧑‍💻 Autor
-
-Desenvolvido por gustamba com o objetivo de melhorar as habilidades em programação!
-
-Espero que este README ajude a organizar e descrever o projeto. Caso você tenha algo específico que queira adicionar, como links, funcionalidades adicionais ou instruções mais detalhadas, é só avisar! 😊
