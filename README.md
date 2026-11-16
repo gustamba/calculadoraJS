@@ -26,12 +26,6 @@ Este projeto foi criado com o propósito de:
 - Aprender a estilizar elementos HTML utilizando CSS.
 - Construir uma aplicação funcional e interativa.
 
-## 📸 Demonstração
-
-Abaixo está uma prévia de como a calculadora funciona:
-
-![Calculadora Simples](https://via.placeholder.com/800x400?text=Coloque+uma+imagem+da+calculadora+aqui)
-
 ## 🚀 Como Executar o Projeto
 
 Siga os passos abaixo para rodar o projeto localmente:
