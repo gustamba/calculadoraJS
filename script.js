@@ -26,7 +26,6 @@ function adicionarOperacao(operacao) {
     }
     valores[1] = operacao
     numero = ''
-    console.log('Numero digitado: ' + valores[0])
     console.log('Operação: ' + valores[1]);
     document.getElementById("resultado").innerText += operacao.toString();
 }
