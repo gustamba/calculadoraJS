@@ -56,6 +56,8 @@ function resultado() {
     resultadoDisplay.innerText = solucao;
     valores[0] = solucao;
     console.log(valores, solucao);
+    primeiroNum = true;
+    numero = solucao;
 }
 
 function resultadoOperacao() {
